@@ -3,7 +3,7 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/jellyfin/19.1.11",
+        "location": "/home/runner/_work/catalog/catalog/stable/jellyfin/19.2.0",
         "last_update": "2025-02-20 04:20:48",
         "required_features": [
             "definitions/timezone",
@@ -11,8 +11,8 @@
             "definitions/certificate",
             "definitions/interface"
         ],
-        "human_version": "10.10.5_19.1.11",
-        "version": "19.1.11",
+        "human_version": "10.10.5_19.2.0",
+        "version": "19.2.0",
         "chart_metadata": {
             "annotations": {
                 "truecharts.org/category": "media",
@@ -58,7 +58,7 @@
                 "https://hub.docker.com/r/alpine/socat"
             ],
             "type": "application",
-            "version": "19.1.11"
+            "version": "19.2.0"
         },
         "app_metadata": null,
         "schema": {
